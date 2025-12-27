@@ -9,7 +9,7 @@
 - doing zetamac
 - graph theory (reading diestel!)
 
-## ✏️ other math-esque interests
+## ✏️ other interests
 - machine learning
 - economics
 - chess
