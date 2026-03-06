@@ -1,8 +1,8 @@
-<h2> hi, im eric lee <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> hi, im eric lee 
 <p><em>sophomore @ <a href="http://www.fairlawnschools.org">Fair Lawn High School</a>
 </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### a little more about me:  
 
 ```javascript
 const korean = {
@@ -13,5 +13,9 @@ const korean = {
                           research: "machinelearning_projects + open to collaborate",
                           other: "chess + competition_math",
                         },
-  }
+  contacts: {
+                          email: "erhl018 [at] gmail [dot] [com]",
+                          linkedin: "/ericlee128",
+                          instagram: "@eriic.lee",
+                        },
 ```
