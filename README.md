@@ -2,7 +2,7 @@
 <p><em>sophomore @ <a href="http://www.fairlawnschools.org">Fair Lawn High School</a>
 </em></p>
 
-<h2> a little more about me:  
+### a little more about me:  
 
 ```javascript
 const korean = {
