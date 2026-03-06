@@ -7,7 +7,7 @@
 ```javascript
 const korean = {
   interests: [pure mathematics, cultures, education, machine learning],
-  skills: [Numpy, Pandas, Matplotlib, scikit-learn, PyTorch],
+  skills: [Numpy, Pandas, Matplotlib, scikit-learn, PyTorch, HTML, CSS, JS],
   currentVentures: {
                           math: "graphtheory",
                           research: "machinelearning_projects + open to collaborate",
