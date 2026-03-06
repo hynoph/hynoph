@@ -19,3 +19,4 @@ const korean = {
                           instagram: "@eriic.lee",
                         },
 ```
+open to chat :)
