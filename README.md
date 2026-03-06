@@ -11,7 +11,7 @@ const korean = {
   currentVentures: {
                           math: "graphtheory",
                           research: "machinelearning_projects + open to collaborate",
-                          other: "chess + competition_math",
+                          other: "trivia, geography",
                         },
   contacts: {
                           email: "erhl018 [at] gmail [dot] [com]",
