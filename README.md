@@ -1,5 +1,5 @@
 <h2> hi, im eric lee 
-<p><em>sophomore @ <a href="http://www.fairlawnschools.org">Fair Lawn High School</a>
+<p><em>junior @ <a href="http://www.fairlawnschools.org">Fair Lawn High School</a>
 </em></p>
 
 ### a little more about me:  
